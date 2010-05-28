@@ -1,0 +1,5 @@
+
+syntax: regexp
+^war/bumblebee$
+syntax: regexp
+^war/WEB-INF/lib$
